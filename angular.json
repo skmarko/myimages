@@ -25,10 +25,10 @@
                         "styles": [
                             "src/styles.css",
                             "src/assets/vendor/bootstrap/css/bootstrap.min.css",
-                            "src/assets/vendor/jquery/jquery.min.js"
+
 
                         ],
-                        "scripts": []
+                        "scripts": ["src/assets/vendor/jquery/jquery.min.js"]
                     },
                     "configurations": {
                         "production": {
