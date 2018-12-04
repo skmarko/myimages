@@ -19,11 +19,12 @@
                         "polyfills": "src/polyfills.ts",
                         "tsConfig": "src/tsconfig.app.json",
                         "assets": [
-                            "src/PicsArt_12-01-07.08.53.jpg",
+                            "src/sk.jpg",
                             "src/assets"
                         ],
                         "styles": [
-                            "src/styles.css"
+                            "src/styles.css",
+                            "src/assets"
 
                         ],
                         "scripts": []
